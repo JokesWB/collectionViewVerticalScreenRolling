@@ -1,0 +1,2 @@
+# collectionViewVerticalScreenRolling
+collectionView实现竖直无限轮播
